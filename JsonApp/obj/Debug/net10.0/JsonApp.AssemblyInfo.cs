@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d3f01ce6d771da92f9a7d7f51f973c09827a7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6cba44a8b8c88ccb7f28b0f1717d0f4b8c9b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
